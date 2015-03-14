@@ -128,7 +128,7 @@ if (document.body.className.indexOf("forum_219") > -1)
     window.setTimeout(function() {
 		jQuery("div.userquoted").removeClass("bbc-block").removeClass("userquoted").css({
 			"background":"#444444",
-			"border-color":"#57ff57",
+			"border-color":"#44ff44",
 			"border-radius":"0",
 			"border-style":"solid none",
 			"border-width":"1px 0",
