@@ -127,7 +127,7 @@ if (document.body.className.indexOf("forum_219") > -1)
 	//this is wrapped in a timeout since firefox runs it like just whenever
     window.setTimeout(function() {
 		jQuery("div.userquoted").removeClass("bbc-block").removeClass("userquoted").css({
-			"background":"#44ff44",
+			"background":"#229922",
 			"border-color":"#57ff57",
 			"border-radius":"0",
 			"border-style":"solid none",
